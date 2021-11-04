@@ -1,0 +1,3 @@
+﻿  2.main.cpp
+d:\git_project\c-plus-plus-study\mystudy\mystudy\2.main.cpp(29): warning C4101: 'myName': unreferenced local variable
+  myStudy.vcxproj -> D:\Git_Project\C-Plus-Plus-Study\myStudy\Debug\myStudy.exe
