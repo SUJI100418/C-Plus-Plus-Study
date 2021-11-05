@@ -9,7 +9,7 @@
 - Construction and InitList : 대입 vs 초기화 리스트 차이
 - Overloading
 - Destructor
-- 
+- shallow copy vs deep copy
 ---------------------------------------------------------------
 
 #### Q. 입력된 문자열 뒤집기 -> 투 포인터 사용
