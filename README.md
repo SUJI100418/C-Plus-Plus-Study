@@ -28,3 +28,19 @@
 	}
 
 	cout << line << endl;
+
+
+#### Q. 문자열 뒤집어서 덧붙이기 : abc -> abccba
+	
+	string line;
+	cin >> line;
+	
+	int last_char = (int)line.size() - 1;
+
+	// 맨 뒤 캐릭터에서 앞으로 순회
+	for (int i = (int)line.size() - 1; i >= 0; --i)
+	{
+		line += line[i];
+	}
+
+	cout << "뒤에 덧붙이기 결과 : " << line << endl;
