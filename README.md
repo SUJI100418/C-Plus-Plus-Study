@@ -1,6 +1,6 @@
 # C-Plus-Plus-Study
 
-### Q. 입력된 문자열 뒤집기 -> 투 포인터 사용
+#### Q. 입력된 문자열 뒤집기 -> 투 포인터 사용
 
 	const int LINE_SIZE = 512;
 	char line[LINE_SIZE];
