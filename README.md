@@ -2,7 +2,8 @@
 - Using Namespace
 - cin, reverse string
 - Reference; int& cat
-
+- std::string, const char* cLine = line.c_str()
+- OOP
 
 ---------------------------------------------------------------
 
