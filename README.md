@@ -1,3 +1,5 @@
+쪽지 시험 링크 : https://quizlet.com/_6t5vcy?x=1qqt&i=24ux83
+
 # C-Plus-Plus-Study
 - Using Namespace
 - cin, reverse string
