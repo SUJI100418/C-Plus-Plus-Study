@@ -6,7 +6,7 @@
 - Reference; int& cat
 - std::string, const char* cLine = line.c_str()
 - OOP
-
+- Construction and InitList : 대입 vs 초기화 리스트 차이
 ---------------------------------------------------------------
 
 #### Q. 입력된 문자열 뒤집기 -> 투 포인터 사용
@@ -54,3 +54,17 @@
 
 
 #### Q. 특정한 수에서 하나의 숫자를 제거했을 때, 만들 수 있는 가장 큰 수는? : 98134 -> 9834
+
+
+#### 생성자 초기화 리스트 (대입 말고)
+	class X
+	{
+		const int mNameSize;
+		Vector& mVector;
+
+		X(Vector& v): mNameSize(10), mVector(v)  //-> 초기화 리스트는 상수나 참조변수도 초기화 가능
+		{
+			//mNameSize = 20;  //에러! const는 값 변경 불가능
+			//mVector = v;     //레퍼런스도 값 변경 불가능!
+		}
+	};
