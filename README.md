@@ -68,3 +68,26 @@
 			//mVector = v;     //레퍼런스도 값 변경 불가능!
 		}
 	};
+
+#### Sample. 클래스 만들기
+
+	// Cat.h
+	class Cat
+	{
+	public:
+		Cat();
+		Cat(int x, int y);
+
+	private:
+		int mX;
+		int mY;
+	};
+
+	// Cat.cpp
+	// Cat 클래스 :: 안에 있는 생성자 Cat():
+
+	#include "Cat.h"
+	Cat::Cat():mX(0), mY(0){}
+
+	Cat::Cat(int x, int y): mX(x), mY(y){}
+
