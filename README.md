@@ -1,4 +1,8 @@
 # C-Plus-Plus-Study
+- Using Namespace
+- cin, reverse string
+- Reference; int& cat
+
 
 #### Q. 입력된 문자열 뒤집기 -> 투 포인터 사용
 
