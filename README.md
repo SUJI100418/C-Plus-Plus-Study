@@ -8,8 +8,8 @@
 	cout << "string to reverse" << endl;
 	cin >> line;
 
-	char* left = line;  // 첫캐릭터
-	char* right = line + strlen(line) - 1; // 마지막캐릭터
+	char* left = line;  // 문자열의 처음
+	char* right = line + strlen(line) - 1; // 문자열의 마지막
 
 	while (left < right)
 	{
