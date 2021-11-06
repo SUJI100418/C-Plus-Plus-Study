@@ -59,6 +59,29 @@
 #### Q. 특정한 수에서 하나의 숫자를 제거했을 때, 만들 수 있는 가장 큰 수는? : 98134 -> 9834
 
 
+#### Q. Math::Ceil(float value)
+
+	int intVal = static_cast<int>(value);  // 내림
+
+	if ( value == static_cast<float>(intVal))
+
+	{
+
+	    return intVal;
+
+	}
+
+	return intVal + 1;
+
+#### Q. Math::Rount(float value) 
+
+	return static_cast<int>(value+0.5f)
+
+	ex) 1.1+0.5 = 1.6, 내림 = 1
+
+	1.6+0.5 = 2.1, 내림 = 2
+
+
 #### Sample. 생성자 초기화 리스트 (대입 말고)
 	class X
 	{
