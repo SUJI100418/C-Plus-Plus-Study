@@ -51,5 +51,20 @@
     <ClCompile Include="11.Overloading and Class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="12.상속_생성자_소멸자.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13.다형성_정적_동적_바인딩.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14.다중 상속_추상_클래스_인터페이스.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15.Casting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Static키워드_정적 멤버 변수_정적 함수cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
