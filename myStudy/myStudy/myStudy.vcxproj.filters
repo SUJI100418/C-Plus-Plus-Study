@@ -30,9 +30,6 @@
     <ClCompile Include="5.Object-Oriented-Programming.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ext.malloc_new_free_delete.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="6.Constructor_and_Init_List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -63,7 +60,16 @@
     <ClCompile Include="15.Casting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Static키워드_정적 멤버 변수_정적 함수cpp.cpp">
+    <ClCompile Include="..\FileSystem_Threading\Filesystem_module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16.Static키워드_정적 멤버 변수_정적 함수cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="번외1.malloc_new_free_delete.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Threading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
