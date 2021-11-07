@@ -1,4 +1,2 @@
-﻿  Threading.cpp
-d:\git_project\c-plus-plus-study\mystudy\mystudy\threading.cpp(77): warning C4930: 'std::thread childThread1(void)': prototyped function not called (was a variable definition intended?)
-d:\git_project\c-plus-plus-study\mystudy\mystudy\threading.cpp(80): warning C4930: 'std::thread childThread2(void)': prototyped function not called (was a variable definition intended?)
+﻿  20.Template_for_STL_Container.cpp
   myStudy.vcxproj -> D:\Git_Project\C-Plus-Plus-Study\myStudy\Debug\myStudy.exe

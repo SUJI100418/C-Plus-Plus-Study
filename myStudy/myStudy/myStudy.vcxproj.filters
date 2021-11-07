@@ -72,5 +72,29 @@
     <ClCompile Include="Threading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17.STL_Container_Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18. Map_Set.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Queue_Stack_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20.Template_for_STL_Container.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21.auto_static_assert_delete_final_override.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22.nullptr_enum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23.unordered_map_and_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24.Smart_Pointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
