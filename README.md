@@ -1,6 +1,7 @@
 쪽지 시험 링크 : https://quizlet.com/_6t5vcy?x=1qqt&i=24ux83
 
 긱 링크 : https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/
+
 긱 링크2 : https://www.geeksforgeeks.org/quiz-corner-gq/#C++%20Programming%20Mock%20Tests
 
 # C-Plus-Plus-Study
