@@ -1,0 +1,16 @@
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.exe
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.deps.json
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.runtimeconfig.json
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.runtimeconfig.dev.json
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.dll
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\ref\CS_Study.dll
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\bin\Debug\net5.0\CS_Study.pdb
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.csprojAssemblyReference.cache
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.AssemblyInfoInputs.cache
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.AssemblyInfo.cs
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.csproj.CoreCompileInputs.cache
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.dll
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\ref\CS_Study.dll
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.pdb
+D:\Git_Project\C-Plus-Plus-Study\C#_DotNet\CS_Study\CS_Study\obj\Debug\net5.0\CS_Study.genruntimeconfig.cache
